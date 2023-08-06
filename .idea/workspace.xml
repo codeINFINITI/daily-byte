@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89c2db57-595d-4964-8661-69234d582fe8" name="Changes" comment="The daily byte project by https://twitter.com/KevinNaughtonJr" />
+    <list default="true" id="89c2db57-595d-4964-8661-69234d582fe8" name="Changes" comment="The daily byte project by https://twitter.com/KevinNaughtonJr">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dailybyte/jaideep/Strings1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dailybyte/jaideep/Strings1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -48,6 +56,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "terminal",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -59,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691299922030</updated>
-      <workItem from="1691299923926" duration="1573000" />
+      <workItem from="1691299923926" duration="2567000" />
     </task>
     <task id="LOCAL-00001" summary="The daily byte project by https://twitter.com/KevinNaughtonJr">
       <created>1691301173984</created>
@@ -77,5 +86,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="The daily byte project by https://twitter.com/KevinNaughtonJr" />
     <option name="LAST_COMMIT_MESSAGE" value="The daily byte project by https://twitter.com/KevinNaughtonJr" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
