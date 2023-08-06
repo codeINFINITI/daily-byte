@@ -50,7 +50,7 @@
 //        Thanks,
 //        The Daily Byte
 
-package com.dailybyte.jaideep;
+package com.dailybyte.strings;
 
 public class Strings1 {
     public static void main(String[] args) {
@@ -60,11 +60,8 @@ public class Strings1 {
 
     }
     private static String getReversedString(String str){
-        if(str==null){
-            return null;
-        }
-        if(str==""){
-            return "";
+        if(str==null || str=="" || str.length()==1){
+            return str;
         }
         int i=0;
         int j=str.length()-1;
