@@ -1,13 +1,8 @@
 package com.dailybyte.strings;
 
 public class Strings2 {
-    public static void main(String[] args) {
-        System.out.println("is String \"level\" a palindrome :"+ isValidPalindrome("level"));
-        System.out.println("is String \"algorithm\" a palindrome :"+ isValidPalindrome("algorithm"));
-        System.out.println("is String \"A man, a plan, a canal: Panama.\" a palindrome :"+ isValidPalindrome("A man, a plan, a canal: Panama."));
 
-    }
-    private static  boolean isValidPalindrome(String str){
+    public  boolean isValidPalindrome(String str){
         if(str ==null || str=="" || str.length()==1){
             return false;
         }
