@@ -53,13 +53,8 @@
 package com.dailybyte.strings;
 
 public class Strings1 {
-    public static void main(String[] args) {
-        System.out.println("reversed string for Cat :: "+getReversedString("Cat"));
-        System.out.println("reversed string for The Daily Byte :: "+getReversedString("The Daily Byte"));
-        System.out.println("reversed string for civic :: "+getReversedString("civic"));
 
-    }
-    private static String getReversedString(String str){
+    public String getReversedString(String str){
         if(str==null || str=="" || str.length()==1){
             return str;
         }
